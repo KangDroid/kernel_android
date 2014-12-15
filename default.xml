@@ -10,3 +10,5 @@
            sync-j="4" />
            
 <project name="KangDroid/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="refs/heads/test" />
+
+</manifest>
