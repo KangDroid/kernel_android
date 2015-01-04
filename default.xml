@@ -9,6 +9,6 @@
            sync-c="true"
            sync-j="4" />
            
-<project name="KangDroid/android_kernel_lge_hammerhead" path="kernel/lge/hammerhead" remote="github" revision="refs/heads/cm-12.0" />
+<project name="KangDroid/ElementalX-N5" remote="github" revision="refs/heads/ElementalX-2.00" />
 
 </manifest>
