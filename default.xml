@@ -10,5 +10,6 @@
            sync-j="4" />
            
 <project name="KangDroid/android_kernel_lge_hammerhead" path="hammerhead" remote="github" revision="refs/heads/test" />
+<project name="KangDroid/android_kernel_moto_shamu" path="shamu" remote="github" revision="refs/heads/test-cm-12.1" />
 
 </manifest>
